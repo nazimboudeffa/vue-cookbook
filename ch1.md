@@ -16,3 +16,6 @@ Create `webpack.config.js` and paste the code of SCSS
 Then add in style tag `lang="scss"`
 
 ![](j4FieG6ve1.png)
+
+The result
+
