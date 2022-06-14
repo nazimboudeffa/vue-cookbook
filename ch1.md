@@ -13,6 +13,8 @@ Install VUE globally by using Git BASH because with PowerShell you'll have [an e
 
 https://cli.vuejs.org/guide/installation.html
 
+After that you can do `npm run serve` with PowerShell
+
 Install SASS loader
 
 https://vue-loader.vuejs.org/guide/pre-processors.html
