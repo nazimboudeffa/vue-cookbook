@@ -8,3 +8,9 @@ There are two ways of starting a VUE project
 ## First method
 
 ## Second method
+
+https://vue-loader.vuejs.org/guide/pre-processors.html
+
+Create `webpack.config.js` and paste the code of SCSS
+
+Then add in style tag `lang="scss"`
