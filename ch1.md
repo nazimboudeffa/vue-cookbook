@@ -9,7 +9,7 @@ There are two ways of starting a VUE project
 
 ## Second method
 
-Install VUE globally by using [Git BASH](https://github.com/vuejs/vue-cli/issues/3424#issuecomment-1155131323)
+Install VUE globally by using Git BASH because with PowerShell you'll have [an error](https://github.com/vuejs/vue-cli/issues/3424#issuecomment-1155131323)
 
 https://cli.vuejs.org/guide/installation.html
 
