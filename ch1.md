@@ -19,3 +19,4 @@ Then add in style tag `lang="scss"`
 
 The result
 
+![](0gUifOdjKs.png)
